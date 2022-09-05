@@ -1,2 +1,2 @@
 # WbOzYa
-Парсинг по APi данных с Wildberries, Ozon, Yandex.Market
+Парсер по APi данных с Wildberries, Ozon, Yandex.Market в MSSQL
